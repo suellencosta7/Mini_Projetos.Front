@@ -1,6 +1,6 @@
 # Mini_Projetos.Front
  Projetos JavaScript,HTML e CSS
 
- Este repósitorio foi criado com foco em praticar o frontend com minis projetos.
+ Este repositório foi criado com intuito em **praticar o _frontend_**, criar minis projetos,testes.
 
 Apenas para estudos e testes
